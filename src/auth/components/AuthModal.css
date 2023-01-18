@@ -1,0 +1,68 @@
+/* Modal */
+.ReactModalPortal > div {
+  opacity: 0;
+}
+
+.ReactModalPortal .ReactModal__Overlay {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  transition: opacity 0.2s ease-in-out;
+  z-index: 999;
+}
+
+.modal-fondo {
+  background-color: rgba(0, 0, 0, 0.3);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: fixed;
+}
+
+.ReactModalPortal .ReactModal__Overlay--after-open {
+  opacity: 1;
+}
+
+.ReactModalPortal .ReactModal__Overlay--before-close {
+  opacity: 0;
+}
+
+.modal {
+  background: white;
+  border-radius: 5px;
+  color: rgb(51, 51, 51);
+  display: inline;
+  max-height: 500px;
+  width: clamp(300px, 40%, 500px);
+  outline: none;
+  padding: 10px;
+}
+
+.login .active {
+  border-bottom: 3px solid #0689d8;
+  border-radius: 8%;
+}
+
+.login a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+form.container {
+  height: 370px;
+}
+
+.login-form {
+  font-size: 18px;
+}
+
+.login-form .btn {
+  font-size: 22px;
+}
+
+.login-form span {
+  color: red;
+  font-weight: bold;
+}

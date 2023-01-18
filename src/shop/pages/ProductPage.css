@@ -1,0 +1,25 @@
+.container-pdp {
+  padding: 10px 10rem;
+}
+
+.container-pdp-product {
+  display: flex;
+
+  height: 700px;
+  background-color: red;
+  flex-wrap: wrap;
+}
+
+.pdp-images {
+  background-color: blue;
+}
+
+.pdp-controls {
+  background-color: green;
+}
+
+@media screen and (max-width: 992px) {
+  .container-pdp {
+    padding: 10px;
+  }
+}

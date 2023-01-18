@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "productTitle": "Title producttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
+    "description": "product description",
+    "img": "https://vtex.com/wp-content/uploads/2020/11/motorola-case-study-cover.jpg",
+    "price": 390.56,
+    "quantity": 1,
+    "discount": 0,
+    "shippingFee": 10.5,
+    "checked": false
+  },
+  {
+    "id": "2",
+    "productTitle": "TitleProduct",
+    "description": "product description",
+    "img": "https://vtex.com/wp-content/uploads/2020/11/motorola-case-study-cover.jpg",
+    "price": 799.5,
+    "quantity": 1,
+    "discount": 20,
+    "shippingFee": 5.5,
+    "checked": false
+  },
+  {
+    "id": "3",
+    "productTitle": "TitleProduct",
+    "description": "product description",
+    "img": "https://vtex.com/wp-content/uploads/2020/11/motorola-case-study-cover.jpg",
+    "price": 590,
+    "quantity": 1,
+    "discount": 0,
+    "shippingFee": 15.5,
+    "checked": false
+  },
+  {
+    "id": "4",
+    "productTitle": "TitleProduct",
+    "description": "product description",
+    "img": "https://vtex.com/wp-content/uploads/2020/11/motorola-case-study-cover.jpg",
+    "price": 790,
+    "quantity": 1,
+    "discount": 0,
+    "shippingFee": 10.5,
+    "checked": false
+  },
+  {
+    "id": "5",
+    "productTitle": "TitleProduct",
+    "description": "product description",
+    "img": "https://vtex.com/wp-content/uploads/2020/11/motorola-case-study-cover.jpg",
+    "price": 790,
+    "quantity": 1,
+    "discount": 0,
+    "shippingFee": 10.5,
+    "checked": false
+  }
+]
